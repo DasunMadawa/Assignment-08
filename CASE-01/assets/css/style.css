@@ -1,0 +1,14 @@
+body > div {
+    position: absolute;
+    display: flex;
+}
+
+body > div > div {
+    position: relative;
+    width: 200px;
+    aspect-ratio: 1/1;
+    background-image: url("/CASE-01/assets/img/icegif-1254.gif");
+    background-position: center;
+    background-size: cover;
+
+}
