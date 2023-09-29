@@ -19,11 +19,6 @@ body > div > div {
 
 }
 
-body > div > div:first-child {
-    background-color: red;
-
-}
-
 body > div > div:nth-child(3) ,
 body > div > div:nth-child(4) ,
 body > div > div:nth-child(5) ,
